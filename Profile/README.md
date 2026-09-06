@@ -5,7 +5,7 @@
 
 Welcome to Splitgate-Architects (SGA), a community hub dedicated to Splitgate and Splitgate 2 content creators, map builders, and community-driven events like Supercustoms. This repository is primarily designed to preserve the custom maps from the map browser and provide ways to load and play them at any time with as little effort as possible.
 
-* Built upon the comprehensive map browser backups provided by Adam (https://github.com/NotFakeAdam), ensuring that community creations are preserved and remain playable even after Splitgate transitioned to P2P.
+* Built upon the comprehensive map browser backups provided by [Adam](https://github.com/NotFakeAdam), ensuring that community creations are preserved and remain playable even after Splitgate transitioned to P2P.
 
 * Utilizes custom automation scripts developed via AI to process map packages and streamline the workflow.
 
