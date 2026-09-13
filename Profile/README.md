@@ -10,3 +10,14 @@ Welcome to Splitgate-Architects (SGA), a community hub dedicated to Splitgate an
 * Utilizes custom automation scripts developed via AI to process map packages and streamline the workflow.
 
 * Transforms raw, fragmented multi-platform files originating from [Splitgate2ForgeBackup](https://github.com/Splitgate/Splitgate2ForgeBackup)  into clean, unified bin files paired directly with matching jpg preview images and info.json files containing the author and map name for an optimized gaming experience.
+
+**Tools:**
+* [CommunityMaps](<https://splitgate-architects.github.io/Splitgate-CommunityMaps/>)
+* [MapManager](<https://splitgate-architects.github.io/Splitgate-MapManager/>)
+
+**Projects:**
+* [CommunityMaps](<https://github.com/Splitgate-Architects/Splitgate-CommunityMaps>)
+* [MapLoader](<https://github.com/Splitgate-Architects/Splitgate-MapLoader>)
+* [MapConverter](<https://github.com/Splitgate-Architects/Splitgate-MapConverter>)
+* [MapManager](<https://github.com/Splitgate-Architects/Splitgate-MapManager>)
+* [Research](<https://github.com/Splitgate-Architects/Splitgate-Research>)
