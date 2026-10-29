@@ -14,6 +14,7 @@ Welcome to Splitgate-Architects (SGA), a community hub dedicated to Splitgate an
 **Tools:**
 * [CommunityMaps](<https://splitgate-architects.github.io/Splitgate-CommunityMaps/>)
 * [MapManager](<https://splitgate-architects.github.io/Splitgate-MapManager/>)
+* [MapConverter](<https://splitgate-architects.github.io/Splitgate-MapConverter/>)
 
 **Projects:**
 * [CommunityMaps](<https://github.com/Splitgate-Architects/Splitgate-CommunityMaps>)
