@@ -11,14 +11,10 @@ Welcome to Splitgate-Architects (SGA), a community hub dedicated to Splitgate an
 
 * Transforms raw, fragmented multi-platform files originating from [Splitgate2ForgeBackup](https://github.com/Splitgate/Splitgate2ForgeBackup)  into clean, unified bin files paired directly with matching jpg preview images and info.json files containing the author and map name for an optimized gaming experience.
 
-**Tools:**
-* [CommunityMaps](<https://splitgate-architects.github.io/Splitgate-CommunityMaps/>)
-* [MapManager](<https://splitgate-architects.github.io/Splitgate-MapManager/>)
-* [MapConverter](<https://splitgate-architects.github.io/Splitgate-MapConverter/>)
-
-**Projects:**
-* [CommunityMaps](<https://github.com/Splitgate-Architects/Splitgate-CommunityMaps>)
-* [MapLoader](<https://github.com/Splitgate-Architects/Splitgate-MapLoader>) [(Release)](<https://github.com/Splitgate-Architects/Splitgate-MapLoader/releases/latest>)
-* [MapConverter](<https://github.com/Splitgate-Architects/Splitgate-MapConverter>)
-* [MapManager](<https://github.com/Splitgate-Architects/Splitgate-MapManager>)
-* [Research](<https://github.com/Splitgate-Architects/Splitgate-Research>)
+## Projects
+* [**CommunityMaps**](<https://github.com/Splitgate-Architects/Splitgate-CommunityMaps>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-CommunityMaps/>)
+* [**MapLoader**](<https://github.com/Splitgate-Architects/Splitgate-MapLoader>) - [(Release)](<https://github.com/Splitgate-Architects/Splitgate-MapLoader/releases/latest>)
+* [**MapManager**](<https://github.com/Splitgate-Architects/Splitgate-MapManager>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapManager/>)
+* [**MapViewer**](<https://github.com/Splitgate-Architects/Splitgate-MapViewer>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapViewer/>)
+* [**MapConverter**](<https://github.com/Splitgate-Architects/Splitgate-MapConverter>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapConverter/>)
+* [**Research**](<https://github.com/Splitgate-Architects/Splitgate-Research>)
