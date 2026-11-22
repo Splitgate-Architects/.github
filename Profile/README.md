@@ -15,7 +15,7 @@ Welcome to Splitgate-Architects (SGA), a community hub dedicated to Splitgate an
 * [**CommunityMaps**](<https://github.com/Splitgate-Architects/Splitgate-CommunityMaps>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-CommunityMaps/>)
 * [**MapLoader**](<https://github.com/Splitgate-Architects/Splitgate-MapLoader>) - [(Release)](<https://github.com/Splitgate-Architects/Splitgate-MapLoader/releases/latest>)
 * [**MapManager**](<https://github.com/Splitgate-Architects/Splitgate-MapManager>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapManager/>)
-* [**MapViewer**](<https://github.com/Splitgate-Architects/Splitgate-MapEditor>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapEditor/>)
+* [**MapEditor**](<https://github.com/Splitgate-Architects/Splitgate-MapEditor>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapEditor/>)
 * [**MapConverter**](<https://github.com/Splitgate-Architects/Splitgate-MapConverter>) - [(Website)](<https://splitgate-architects.github.io/Splitgate-MapConverter/>)
 * [**Research**](<https://github.com/Splitgate-Architects/Splitgate-Research>)
 * [**Mods**](<https://github.com/Splitgate-Architects/Splitgate-Mods>)
